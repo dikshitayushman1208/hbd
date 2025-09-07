@@ -50,12 +50,12 @@ img {
 
 .paper.heart::after {
   content: "";
-  background-image: url('static/vanshika.png');
+  background-image: url('static/download.jpeg');
   width: 100%;
   height: 100%;
   position: absolute;
   top: 0;
-  left: 0;
+  left: 0;git 
   background-size: 150px;
   background-position: center center;
   background-repeat: no-repeat;
